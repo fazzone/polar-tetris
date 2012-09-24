@@ -9,6 +9,7 @@ To run:
 
 
 Controls:
-    *Arrow keys for movement
-    *Space for hard drop
-    *'p' to switch coordinate systems
+
+*    Arrow keys for movement
+*    Space for hard drop
+*    'p' to switch coordinate systems
