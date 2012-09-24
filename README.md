@@ -8,4 +8,7 @@ To run:
      $ java -cp bin gui.GameFrame
 
 
-To switch coordinate systems; press 'p'
+Controls:
+    *Arrow keys for movement
+    *Space for hard drop
+    *'p' to switch coordinate systems
